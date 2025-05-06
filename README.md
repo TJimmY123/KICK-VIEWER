@@ -13,3 +13,4 @@
 - ⚙️ Advanced configuration options for power users
 
 ![macOS version]([./images/macos_file.png](https://cdn.discordapp.com/attachments/1359712814541050061/1369362241815576677/Screenshot_2025-05-06_191400.png?ex=681b9577&is=681a43f7&hm=5c3f4b040f35e06bf34808dd8bd38ecf49e7722b896daa39988e2f5a2f8937d5&))
+<img width="1512" alt="Dashboard Overview - Real-time metrics and controls" src="https://cdn.discordapp.com/attachments/1359712814541050061/1369362241815576677/Screenshot_2025-05-06_191400.png?ex=681b9577&is=681a43f7&hm=5c3f4b040f35e06bf34808dd8bd38ecf49e7722b896daa39988e2f5a2f8937d5&" />
