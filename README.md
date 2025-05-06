@@ -1,0 +1,13 @@
+# KICK-VIEWER
+
+𝘉𝘶𝘺 𝘒𝘪𝘤𝘬 𝘭𝘪𝘷𝘦 𝘷𝘪𝘦𝘸𝘦𝘳𝘴 𝘸𝘪𝘵𝘩 𝘵𝘰𝘱 𝘲𝘶𝘢𝘭𝘪𝘵𝘺   𝙏𝙝𝙚 𝙝𝙞𝙜𝙝 𝙦𝙪𝙖𝙡𝙞𝙩𝙮 𝙨𝙩𝙖𝙣𝙙𝙖𝙧𝙙 𝙞𝙨 𝙘𝙝𝙚𝙘𝙠𝙚𝙙 𝙚𝙫𝙚𝙧𝙮 𝙙𝙖𝙮 𝙗𝙮 𝙤𝙪𝙧 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩𝙨 𝙨𝙤 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙖𝙡𝙬𝙖𝙮𝙨 𝙗𝙚 𝙨𝙪𝙧𝙚 𝙩𝙝𝙖𝙩 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙗𝙪𝙮 𝙆𝙞𝙘𝙠  𝙡𝙞𝙫𝙚 𝙫𝙞𝙚𝙬𝙚𝙧𝙨 𝙛𝙧𝙤𝙢 𝙪𝙨 𝙨𝙖𝙛𝙚 𝙖𝙣𝙙 𝙧𝙚𝙡𝙞𝙖𝙗𝙡𝙚
+
+## Features
+
+- 🚀 High-performance multi-threading system supporting up to 1000 concurrent connections
+- 🔄 Intelligent proxy rotation with automatic failover mechanisms
+- 🌐 Comprehensive proxy protocol support (HTTP, SOCKS4, SOCKS5)
+- 📊 Real-time analytics dashboard with performance metrics
+- 🔒 Enterprise-grade SSL/HTTPS security implementation
+- 📱 Responsive and intuitive web interface optimized for all devices
+- ⚙️ Advanced configuration options for power users
