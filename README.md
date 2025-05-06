@@ -1,6 +1,8 @@
 # KICK-VIEWER
 
-𝘉𝘶𝘺 𝘒𝘪𝘤𝘬 𝘭𝘪𝘷𝘦 𝘷𝘪𝘦𝘸𝘦𝘳𝘴 𝘸𝘪𝘵𝘩 𝘵𝘰𝘱 𝘲𝘶𝘢𝘭𝘪𝘵𝘺   𝙏𝙝𝙚 𝙝𝙞𝙜𝙝 𝙦𝙪𝙖𝙡𝙞𝙩𝙮 𝙨𝙩𝙖𝙣𝙙𝙖𝙧𝙙 𝙞𝙨 𝙘𝙝𝙚𝙘𝙠𝙚𝙙 𝙚𝙫𝙚𝙧𝙮 𝙙𝙖𝙮 𝙗𝙮 𝙤𝙪𝙧 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩𝙨 𝙨𝙤 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙖𝙡𝙬𝙖𝙮𝙨 𝙗𝙚 𝙨𝙪𝙧𝙚 𝙩𝙝𝙖𝙩 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙗𝙪𝙮 𝙆𝙞𝙘𝙠  𝙡𝙞𝙫𝙚 𝙫𝙞𝙚𝙬𝙚𝙧𝙨 𝙛𝙧𝙤𝙢 𝙪𝙨 𝙨𝙖𝙛𝙚 𝙖𝙣𝙙 𝙧𝙚𝙡𝙞𝙖𝙗𝙡𝙚
+𝘉𝘶𝘺 𝘒𝘪𝘤𝘬 𝘭𝘪𝘷𝘦 𝘷𝘪𝘦𝘸𝘦𝘳𝘴 𝘸𝘪𝘵𝘩 𝘵𝘰𝘱 𝘲𝘶𝘢𝘭𝘪𝘵𝘺
+
+𝙏𝙝𝙚 𝙝𝙞𝙜𝙝 𝙦𝙪𝙖𝙡𝙞𝙩𝙮 𝙨𝙩𝙖𝙣𝙙𝙖𝙧𝙙 𝙞𝙨 𝙘𝙝𝙚𝙘𝙠𝙚𝙙 𝙚𝙫𝙚𝙧𝙮 𝙙𝙖𝙮 𝙗𝙮 𝙤𝙪𝙧 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩𝙨 𝙨𝙤 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙖𝙡𝙬𝙖𝙮𝙨 𝙗𝙚 𝙨𝙪𝙧𝙚 𝙩𝙝𝙖𝙩 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙗𝙪𝙮 𝙆𝙞𝙘𝙠  𝙡𝙞𝙫𝙚 𝙫𝙞𝙚𝙬𝙚𝙧𝙨 𝙛𝙧𝙤𝙢 𝙪𝙨 𝙨𝙖𝙛𝙚 𝙖𝙣𝙙 𝙧𝙚𝙡𝙞𝙖𝙗𝙡𝙚
 
 ## Features
 
@@ -19,7 +21,7 @@
 <img width="1512" alt="Dashboard Overview - Real-time metrics and controls" src="https://cdn.discordapp.com/attachments/1359712814541050061/1369362241543082065/Screenshot_2025-05.png?ex=681b9577&is=681a43f7&hm=b8ce64e35bd79a9231615550d5e5eed25411d9fb392eead5c3ad5df496bda3b9&" />
 
 ### ☉ My discord:
-[![Discord Banner 4](https://discordapp.com/api/guilds/838853179131166721/widget.png?style=banner4)](https://discord.gg/eHZwtAvbwU)
+[![Discord Banner 4](https://discordapp.com/api/guilds/1359712814192660530/widget.png?style=banner4)](https://discord.gg/eHZwtAvbwU)
 
 ## License
 
