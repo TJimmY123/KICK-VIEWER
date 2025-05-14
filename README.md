@@ -28,7 +28,7 @@
 
 ## 📸 Screenshots
 
-<img width="1512" alt="Dashboard Overview - Real-time metrics and controls" src="https://media.discordapp.net/attachments/780074924722225172/1372319329789411388/Screenshot_2025-05.png?ex=68265778&is=682505f8&hm=236060648df6df47d4e2d8009ff93aef12f830d0026b72dcce48fb4721a80e07&=&format=webp&quality=lossless&width=711&height=864" />
+<img width="1512" alt="Dashboard Overview - Real-time metrics and controls" src="https://cdn.discordapp.com/attachments/780074924722225172/1372321660631388321/ture.PNG?ex=682659a4&is=68250824&hm=2fe0eae5ebda4f0fcf72c9b26b5d500874d6cf424fbeed7df92450a5c1356779&" />
 
 <img width="1512" alt="Dashboard Overview - Real-time metrics and controls" src="https://media.discordapp.net/attachments/780074924722225172/1372319330150387722/Screenshot_2025-05-06_191400.png?ex=68265778&is=682505f8&hm=2e636b9c7b7c0706a4abffb29b1406ce9fb39f3a89ad9141caf2172b19b03015&=&format=webp&quality=lossless&width=663&height=864" />
 
