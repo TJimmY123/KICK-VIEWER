@@ -37,6 +37,24 @@
 ### ☉ My discord:
 [![Discord Banner 4](https://discordapp.com/api/guilds/1359712814192660530/widget.png?style=banner4)](https://discord.gg/eHZwtAvbwU)
 
+
+<div align="center">
+  
+[![1.1]][1]
+[![1.2]][2]
+[![1.3]][3]
+
+</div>
+
+<div align="center">
+  
+[![1.4]][4]
+
+</div>
+
+[4]: https://discord.gg/j2yFsV5ZVC
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for detailed terms and conditions.
