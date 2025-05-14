@@ -4,6 +4,22 @@
 
 𝙏𝙝𝙚 𝙝𝙞𝙜𝙝 𝙦𝙪𝙖𝙡𝙞𝙩𝙮 𝙨𝙩𝙖𝙣𝙙𝙖𝙧𝙙 𝙞𝙨 𝙘𝙝𝙚𝙘𝙠𝙚𝙙 𝙚𝙫𝙚𝙧𝙮 𝙙𝙖𝙮 𝙗𝙮 𝙤𝙪𝙧 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩𝙨 𝙨𝙤 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙖𝙡𝙬𝙖𝙮𝙨 𝙗𝙚 𝙨𝙪𝙧𝙚 𝙩𝙝𝙖𝙩 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙗𝙪𝙮 𝙆𝙞𝙘𝙠  𝙡𝙞𝙫𝙚 𝙫𝙞𝙚𝙬𝙚𝙧𝙨 𝙛𝙧𝙤𝙢 𝙪𝙨 𝙨𝙖𝙛𝙚 𝙖𝙣𝙙 𝙧𝙚𝙡𝙞𝙖𝙗𝙡𝙚
 
+## 💨 Hello, My Name Is JimmY
+- 📞 You can contact me **[Discord](https://discord.com/users/479183494958940161)**
+
+<a href="https://github.com/TJimmY123">
+  <img src="https://img.shields.io/github/followers/TJimmY123">
+</a>
+<a href="https://github.com/TJimmY123">
+   <img src="https://komarev.com/ghpvc/?username=TJimmY123">
+</a>
+
+#### ☉ Languages and Tools I can work with:
+
+<a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
+
+
 ## Features
 
 - 🚀 High-performance multi-threading system supporting up to 1000 concurrent connections
