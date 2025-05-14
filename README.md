@@ -3,7 +3,7 @@
 ## 💨 Hello, My Name Is JimmY
 - 📞 You can contact me **[Discord](https://discord.com/users/479183494958940161)**
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/780074924722225172/1372323390895161476/SMM_View.ico?ex=68265b40&is=682509c0&hm=614e65c195c3c1eb1bc6bba5647e3856794b6df7a33d64a5ab7dc67fcf418513&" alt="MAS Logo"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/780074924722225172/1372323758483968080/SMM_View.ico?ex=68265b98&is=68250a18&hm=405eee023b5305d216b51184d53950e5b588a9a37941d826d95d159cd77e974f&" alt="MAS Logo"></p>
 
 # KICK-VIEWER
 
