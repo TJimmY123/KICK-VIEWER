@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 ## 💨 Hello, My Name Is JimmY
 - 📞 You can contact me **[Discord](https://discord.com/users/479183494958940161)**
 
