@@ -32,7 +32,7 @@
 
 <img width="1512" alt="Dashboard Overview - Real-time metrics and controls" src="https://media.discordapp.net/attachments/1359712814541050061/1369362241543082065/Screenshot_2025-05.png?ex=682d61b7&is=682c1037&hm=b23714f9e1e6489e5893aa96accabd8eb2d459c1f9c9c41725c6ccb4829fac58&=&format=webp&quality=lossless&width=711&height=864" />
 
-<img width="1512" alt="Dashboard Overview - Real-time metrics and controls" src="https://media.discordapp.net/attachments/780074924722225172/1372319330150387722/Screenshot_2025-05-06_191400.png?ex=68265778&is=682505f8&hm=2e636b9c7b7c0706a4abffb29b1406ce9fb39f3a89ad9141caf2172b19b03015&=&format=webp&quality=lossless&width=663&height=864" />
+<img width="1512" alt="Dashboard Overview - Real-time metrics and controls" src="https://media.discordapp.net/attachments/1359712814541050061/1369362241815576677/Screenshot_2025-05-06_191400.png?ex=682d61b7&is=682c1037&hm=806eff14de7f557c46816222a6731fe0a6b27af11e210c432b5307a2569e9caa&=&format=webp&quality=lossless&width=663&height=864" />
 
 ### ☉ My discord:
 [![Discord Banner 4](https://discordapp.com/api/guilds/1359712814192660530/widget.png?style=banner4)](https://discord.gg/eHZwtAvbwU)
